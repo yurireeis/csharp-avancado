@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Evento.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Evento.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Evento.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Evento.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Evento.pdb
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.csproj.CopyComplete
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Evento/obj/Debug/netcoreapp2.1/Evento.pdb

@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/bin/Debug/netcoreapp2.1/Task.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/bin/Debug/netcoreapp2.1/Task.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/bin/Debug/netcoreapp2.1/Task.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/bin/Debug/netcoreapp2.1/Task.dll
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/bin/Debug/netcoreapp2.1/Task.pdb
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.dll
+/home/yreis/estudo/CSharpAvancado/secao-07/Task/obj/Debug/netcoreapp2.1/Task.pdb

@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/SerializarJSON.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/SerializarJSON.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/SerializarJSON.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/SerializarJSON.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/SerializarJSON.pdb
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.pdb
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarJSON/obj/Debug/netcoreapp2.1/SerializarJSON.csproj.CopyComplete

@@ -1,0 +1,10 @@
+Thread (o que é?)
+
+- ideia de um fluxo paralelo
+- não surgiu como uma melhoria de hardware, mas sim como uma melhoria de software
+- como o processador é extremamente rápido, o sistema operacional foi se aperfeiçoando
+ao ponto de dividir processos/cargas e processá-los em paralelo
+- ao passar do tempo, o trabalho single core passou a ser aperfeiçoado coma vinda do o
+multi-core
+- nós como programadores podemos melhorar a performance do mesmo utilizando múltiplas 
+threads (fazendo uso do paralelismo)

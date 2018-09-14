@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Generics.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Generics.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Generics.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Generics.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Generics.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.csproj.CopyComplete
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/Generics/obj/Debug/netcoreapp2.1/Generics.pdb

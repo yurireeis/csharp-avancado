@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/SerializarXML.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/SerializarXML.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/SerializarXML.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/SerializarXML.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/SerializarXML.pdb
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.csproj.CopyComplete
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.dll
+/home/yreis/estudo/CSharpAvancado/secao-02/SerializarXML/obj/Debug/netcoreapp2.1/SerializarXML.pdb

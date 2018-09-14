@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Delegate.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Delegate.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Delegate.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Delegate.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Delegate.pdb
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.pdb
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-05/Delegate/obj/Debug/netcoreapp2.1/Delegate.csproj.CopyComplete

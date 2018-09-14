@@ -1,0 +1,9 @@
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/bin/Debug/netstandard2.0/Biblioteca.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/bin/Debug/netstandard2.0/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/bin/Debug/netstandard2.0/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-04/Biblioteca/obj/Debug/netstandard2.0/Biblioteca.pdb

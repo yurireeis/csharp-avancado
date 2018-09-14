@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/ExtensionMethods.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/ExtensionMethods.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/ExtensionMethods.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/ExtensionMethods.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/ExtensionMethods.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.csproj.CopyComplete
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/ExtensionMethods/obj/Debug/netcoreapp2.1/ExtensionMethods.pdb

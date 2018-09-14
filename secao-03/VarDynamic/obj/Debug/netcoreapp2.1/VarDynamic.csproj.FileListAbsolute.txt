@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/VarDynamic.deps.json
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/VarDynamic.runtimeconfig.json
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/VarDynamic.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/VarDynamic.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/VarDynamic.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.AssemblyInfo.cs
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.csproj.CopyComplete
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.dll
+/home/yreis/estudo/CSharpAvancado/secao-03/VarDynamic/obj/Debug/netcoreapp2.1/VarDynamic.pdb

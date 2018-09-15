@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca/Biblioteca.csproj",
+      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Biblioteca >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -686,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yreis/estudo/CSharpAvancado/secao-08/Atributos/Atributos.csproj",
+      "projectUniqueName": "/home/yreis/estudo/csharp-avancado/secao-08/Atributos/Atributos.csproj",
       "projectName": "Atributos",
-      "projectPath": "/home/yreis/estudo/CSharpAvancado/secao-08/Atributos/Atributos.csproj",
+      "projectPath": "/home/yreis/estudo/csharp-avancado/secao-08/Atributos/Atributos.csproj",
       "packagesPath": "/home/yreis/.nuget/packages/",
-      "outputPath": "/home/yreis/estudo/CSharpAvancado/secao-08/Atributos/obj/",
+      "outputPath": "/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yreis/.nuget/NuGet/NuGet.Config"
@@ -703,7 +719,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/yreis/estudo/csharp-avancado/secao-08/Biblioteca/Biblioteca.csproj": {
+              "projectPath": "/home/yreis/estudo/csharp-avancado/secao-08/Biblioteca/Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

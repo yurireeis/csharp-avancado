@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/bin/Debug/netcoreapp2.1/Nuget.deps.json
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/bin/Debug/netcoreapp2.1/Nuget.runtimeconfig.json
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/bin/Debug/netcoreapp2.1/Nuget.runtimeconfig.dev.json
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/bin/Debug/netcoreapp2.1/Nuget.dll
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/bin/Debug/netcoreapp2.1/Nuget.pdb
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.AssemblyInfo.cs
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.dll
+/home/yreis/estudo/csharp-avancado/secao-09/Nuget/obj/Debug/netcoreapp2.1/Nuget.pdb

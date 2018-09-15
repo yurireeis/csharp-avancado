@@ -1,0 +1,11 @@
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/bin/Debug/netcoreapp2.1/Reflection.deps.json
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/bin/Debug/netcoreapp2.1/Reflection.runtimeconfig.json
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/bin/Debug/netcoreapp2.1/Reflection.runtimeconfig.dev.json
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/bin/Debug/netcoreapp2.1/Reflection.dll
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/bin/Debug/netcoreapp2.1/Reflection.pdb
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.AssemblyInfo.cs
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.dll
+/home/yreis/estudo/csharp-avancado/secao-08/Reflection/obj/Debug/netcoreapp2.1/Reflection.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Biblioteca.Matematica.Yuri</id>
+    <version>1.0.0</version>
+    <title>Operações Matemáticas</title>
+    <authors>Yuri Reis</authors>
+    <owners>Yuri Reis</owners>
+    <projectUrl>https://github.com/yurireeis/csharp-avancado/tree/master/secao-09/Biblioteca</projectUrl>
+    <iconUrl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvAzbpc95J4dD11fyXEPZuZa_jkBI82ENiI77Q_Z7OvrGa32i</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Apenas um teste para aprendizado de hospedagem/instalação de um pacote através do Nuget</description>
+    <releaseNotes>Primeira e última versão</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Sucesso Estudo</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin/Debug/netstandard2.0/Biblioteca.dll" target="lib/Biblioteca.dll" />
+  </files>
+</package>

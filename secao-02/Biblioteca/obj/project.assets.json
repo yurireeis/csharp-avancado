@@ -11,7 +11,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.3": {
+      "NETStandard.Library/2.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -42,10 +42,10 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+    "NETStandard.Library/2.0.2": {
+      "sha512": "5hB7QTrTeMzV5xnTH4+zNBOGCD5/DcSVb3iPGgyta4Xje5AI2gJoeLnArlQCzxTbRVpx8YrjnjAmUhkxjbd2ZA==",
       "type": "package",
-      "path": "netstandard.library/2.0.3",
+      "path": "netstandard.library/2.0.2",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -165,14 +165,14 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.3.nupkg.sha512",
+        "netstandard.library.2.0.2.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.2-servicing-26420-0"
     ]
   },
   "packageFolders": {
@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yreis/estudo/CSharpAvancado/secao-02/Biblioteca/Biblioteca.csproj",
+      "projectUniqueName": "/home/yreis/estudo/csharp-avancado/secao-02/Biblioteca/Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "/home/yreis/estudo/CSharpAvancado/secao-02/Biblioteca/Biblioteca.csproj",
+      "projectPath": "/home/yreis/estudo/csharp-avancado/secao-02/Biblioteca/Biblioteca.csproj",
       "packagesPath": "/home/yreis/.nuget/packages/",
-      "outputPath": "/home/yreis/estudo/CSharpAvancado/secao-02/Biblioteca/obj/",
+      "outputPath": "/home/yreis/estudo/csharp-avancado/secao-02/Biblioteca/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yreis/.nuget/NuGet/NuGet.Config"
@@ -213,7 +213,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.3, )",
+            "version": "[2.0.2-servicing-26420-0, )",
             "autoReferenced": true
           }
         },
@@ -224,5 +224,17 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Biblioteca depends on NETStandard.Library (>= 2.0.2-servicing-26420-0) but NETStandard.Library 2.0.2-servicing-26420-0 was not found. An approximate best match of NETStandard.Library 2.0.2 was resolved.",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,14 @@
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Atributos.deps.json
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Atributos.runtimeconfig.json
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Atributos.runtimeconfig.dev.json
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Atributos.dll
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Atributos.pdb
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.csprojAssemblyReference.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.AssemblyInfoInputs.cache
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.AssemblyInfo.cs
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.dll
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.pdb
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Biblioteca.dll
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/bin/Debug/netcoreapp2.1/Biblioteca.pdb
+/home/yreis/estudo/csharp-avancado/secao-08/Atributos/obj/Debug/netcoreapp2.1/Atributos.csproj.CopyComplete
